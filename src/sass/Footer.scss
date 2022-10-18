@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+
+#footer {
+  width: 100%;
+  background-color: #0e4f97;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+
+  font-size: 11px;
+  font-family: "Inter", sans-serif;
+  font-weight: bolder;
+}
+
+@media (min-width: 1024px) {
+  #footer {
+    width: 100%;
+    background-color: #0e4f97;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    font-size: 15px;
+
+    font-family: "Inter", sans-serif;
+    font-weight: bolder;
+  }
+}
+
+@media (min-width: 1280px) {
+  #footer {
+    width: 100%;
+    background-color: #0e4f97;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    font-size: 15px;
+
+    font-family: "Inter", sans-serif;
+    font-weight: bolder;
+  }
+}
